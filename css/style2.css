@@ -9,11 +9,10 @@ body {
 }
 
 h1 {
-  background-color: rgb(80 244 78)
-  ;padding: 40px
-  ;text-align: center;
+  background-color: rgb(80 244 78);
+  padding: 40px;
+  text-align: center;
 }
-
 p {
   background-color: rgb(140 255 46);
 }
