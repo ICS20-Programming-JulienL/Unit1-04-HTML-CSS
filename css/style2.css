@@ -3,3 +3,13 @@
 * Made by: Julien Lamoureux
 * Date : Feburary 17, 2023
 */
+
+body {
+  background-color: rgb(205, 255, 163);
+}
+
+h1  {
+  background-color: rgb(80, 244, 78);
+  padding: 40px;
+  text-align: center;
+}
