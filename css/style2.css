@@ -1,7 +1,7 @@
 /* Unit: Unit1-04-HTML-CSS
 * File name: style2.css
 * Made by: Julien Lamoureux
-* Date : Feburary 17, 2023
+* Date : February 17-19, 2023
 */
 
 body {
@@ -11,8 +11,26 @@ body {
 h1 {
   background-color: rgb(80 244 78);
   padding: 40px;
+  color: rgb(15, 15, 15);
   text-align: center;
 }
+
+h2 {
+  background-color: rgb(80 244 78);
+  padding: 40px;
+  color: rgb(15, 15, 15);
+  text-align: center;
+}
+
+th {
+  color: white;
+  background-color: black;
+}
+
+li {
+  color: #0a0a0a;
+}
+
 p {
-  background-color: rgb(140 255 46);
+  background-color: rgb(49 251 45);
 }
